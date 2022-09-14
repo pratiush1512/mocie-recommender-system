@@ -1,4 +1,4 @@
-# Movie-recommender-system
+# Movie-Recommender-System
 Content Based Movie Recommender System which recommends movies similar to the movie that user enter. It also provides various the details of the recommended movie such as overview, genres, year of release, ratings, alongwith that the IMDb hyperlink.
 
 The details of the movies(including Poster, Titles, IMDb and Metacritic rating) is fetched using an API by OMDB, https://www.omdbapi.com/, and using the IMDb library, the IMDb link for each movies are fetched out.
